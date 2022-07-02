@@ -1,0 +1,12 @@
+.green-title {
+	color: darkgreen;
+}
+
+.small-title {
+	font-size: 15px;
+}
+
+.underline-title {
+	font-style: italic;
+	text-decoration: underline ;
+}
