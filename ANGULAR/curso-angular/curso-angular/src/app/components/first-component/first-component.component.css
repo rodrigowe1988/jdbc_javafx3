@@ -1,0 +1,15 @@
+h2 {
+	color: blue;
+}
+
+.name {
+	color: red;
+}
+
+.hobby {
+	background-color: black;
+	color: aqua;
+	height: 45px;
+	display: flex;
+	align-items: center;
+}
