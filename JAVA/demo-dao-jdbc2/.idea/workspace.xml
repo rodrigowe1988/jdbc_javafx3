@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abbb1f93-a103-4a5d-b04a-60f40c4cdb29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx4/jdbc_javafx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx4/src/application/InsertDepartmentSimpleWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx5 - update/jdbc_javafx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx6 - delete/jdbc_javafx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx7 - transactions/jdbc_javafx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/out/production/jdbc_javafx/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/out/production/jdbc_javafx/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/out/production/jdbc_javafx/db/DB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/out/production/jdbc_javafx/db/DB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/src/db/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/jdbc_javafx3/src/db/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception_java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exception_java/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2AqOTEXyG0BJ262ClGExLg9ZmPz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abbb1f93-a103-4a5d-b04a-60f40c4cdb29" name="Changes" comment="" />
+      <created>1655733680887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655733680887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
