@@ -1,7 +1,7 @@
 <div class="class-default">
 	<div *ngIf="canShow">	if-render component</div>
-	<div *ngIf="name === 'Rodrigo'; else nameNotFound">O nome Rodrigo está true</div>
+	<div *ngIf="name === 'Rodrigo'; else nameNotFound">O nome Rodrigo está <span [ngStyle]="{color: colorT}">true</span></div>
 	<ng-template #nameNotFound>
-		<div [ngStyle]="{ color: color }">Name not found</div>
+		<div [ngStyle]="{ color: colorF }">Name not found</div>
 	</ng-template>
 </div>

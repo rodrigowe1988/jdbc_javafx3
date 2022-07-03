@@ -9,6 +9,8 @@ export class ChangeNumberComponent implements OnInit {
 
   @Output() changeNumber: EventEmitter<any> = new EventEmitter();
 
+  number: number = 0;
+
   constructor() { }
 
   ngOnInit(): void {

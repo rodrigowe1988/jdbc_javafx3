@@ -8,8 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class IfRenderComponent implements OnInit {
 
   canShow: boolean = true;
-  name: string = "Rodrio";
-  color: string = "Red";
+  name: string = "Rodrigo";
+  colorF: string = "Red";
+  colorT: string = "Green";
 
   constructor() { }
 
