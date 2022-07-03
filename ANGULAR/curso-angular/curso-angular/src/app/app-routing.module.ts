@@ -6,6 +6,7 @@ import { EmitterComponent } from "./components/emitter/emitter.component";
 import { EventsComponent } from "./components/events/events.component";
 import { FirstComponentComponent } from "./components/first-component/first-component.component";
 import { IfRenderComponent } from "./components/if-render/if-render.component";
+import { ItemDetailComponent } from "./components/item-detail/item-detail.component";
 import { ListRenderComponent } from "./components/list-render/list-render.component";
 
 const routes: Routes = [
@@ -14,7 +15,8 @@ const routes: Routes = [
 	{path: 'if-render', component: IfRenderComponent},
 	{path: 'change-number', component: EmitterComponent},
 	{path: 'directives', component: DirectivesComponent},
-	{path: 'events', component: EventsComponent}
+	{path: 'events', component: EventsComponent},
+	{path: 'list/:id', component: ItemDetailComponent}
 
 ]
 
